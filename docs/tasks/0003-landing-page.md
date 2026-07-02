@@ -2,7 +2,7 @@
 
 ## Estado
 
-En progreso
+Completado — implementado en `app/page.tsx`
 
 ---
 
@@ -24,22 +24,22 @@ Debe incluir únicamente:
 
 - Logo temporal con el texto "MOTivo"
 - Título principal:
-  "Encuentra la moto perfecta para ti"
+  "Encuentra la moto perfecta para ti."
 
 - Subtítulo:
-  "Recomendaciones inteligentes según tu presupuesto, experiencia y necesidades."
+  "Responde unas preguntas y recibe una recomendación objetiva basada en tu presupuesto, experiencia y necesidades."
 
 - Botón principal:
   "Empezar"
 
-- Sección "Próximamente"
+- Sección "¿Qué hace MOTivo?"
 
 Con cuatro tarjetas:
 
-- Comparador
+- Recomendaciones inteligentes
+- Comparación objetiva
 - Costos reales
-- Mantenimiento
-- Consumo
+- Explicaciones claras
 
 ---
 
@@ -53,11 +53,13 @@ No agregar:
 - Footer
 - Base de datos
 - Backend
+- API
+- Autenticación
 - Librerías nuevas
 
 Usar únicamente:
 
-- Next.js
+- Next.js 16
 - TypeScript
 - Tailwind CSS
 
