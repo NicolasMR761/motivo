@@ -4,7 +4,7 @@ const MOTIVO_FEATURES = [
   "Costos reales",
   "Explicaciones claras",
 ];
-
+import Link from "next/link";
 export default function HomePage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center gap-16 bg-slate-50 px-6 py-16">
@@ -24,9 +24,12 @@ export default function HomePage() {
           en tu presupuesto, experiencia y necesidades.
         </p>
 
-        <button className="rounded-full bg-slate-900 px-8 py-3 text-lg font-semibold text-white transition duration-200 hover:bg-slate-800">
-          Empezar
-        </button>
+<Link
+  href="/questionnaire"
+  className="rounded-full bg-slate-900 px-8 py-3 text-lg font-semibold text-white transition duration-200 hover:bg-slate-800"
+>
+  Empezar
+</Link>
       </section>
 
       {/* Qué hace MOTivo */}
