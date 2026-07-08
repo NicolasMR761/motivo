@@ -13,12 +13,12 @@ Estado del proyecto: 🚧 En desarrollo
 
 # Sprint 2 — MVP
 
-- [ ] Ticket #0003 - Landing Page
-- [ ] Ticket #0004 - Sistema de diseño (colores, tipografía y componentes base)
-- [ ] Ticket #0005 - Cuestionario de usuario
-- [ ] Ticket #0006 - Motor de recomendación (primera versión)
-- [ ] Ticket #0007 - Pantalla de resultados
-- [ ] Ticket #0008 - Catálogo inicial de motocicletas
+- [x] Ticket #0003 - Landing Page
+- [x] Ticket #0004 - Cuestionario de usuario
+- [ ] Ticket #0005 - Motor de recomendación
+- [ ] Ticket #0006 - Pantalla de resultados
+- [ ] Ticket #0007 - Catálogo inicial de motocicletas
+- [ ] Ticket #0008 - Sistema de diseño
 
 ---
 
